@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "lumber-cli",
+        "scope": null,
+        "escapedName": "lumber-cli",
+        "name": "lumber-cli",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/patrickforestell"
+    ]
+  ],
+  "_from": "lumber-cli@latest",
+  "_id": "lumber-cli@1.2.3",
+  "_inCache": true,
+  "_location": "/lumber-cli",
+  "_nodeVersion": "5.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/lumber-cli-1.2.3.tgz_1481691219907_0.03053450328297913"
+  },
+  "_npmUser": {
+    "name": "seyz",
+    "email": "sandro@munda.me"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lumber-cli",
+    "scope": null,
+    "escapedName": "lumber-cli",
+    "name": "lumber-cli",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/lumber-cli/-/lumber-cli-1.2.3.tgz",
+  "_shasum": "df5a1318710f96c112c606e02b03de19c0fce261",
+  "_shrinkwrap": null,
+  "_spec": "lumber-cli",
+  "_where": "/Users/patrickforestell",
+  "author": {
+    "name": "Sandro Munda"
+  },
+  "bin": {
+    "lumber": "lumber.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "chalk": "^1.1.3",
+    "command-exists": "^1.0.2",
+    "commander": "^2.9.0",
+    "github": "^6.0.4",
+    "inquirer": "^1.2.2",
+    "jsonapi-serializer": "^3.4.1",
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.16.4",
+    "mkdirp": "^0.5.1",
+    "mysql": "^2.11.1",
+    "netrc": "^0.1.4",
+    "pg": "^6.1.0",
+    "progress": "^1.1.8",
+    "sequelize": "^3.27.0",
+    "superagent": "^2.3.0",
+    "superagent-promise": "^1.1.0",
+    "tedious": "^1.14.0",
+    "winston": "^2.2.0"
+  },
+  "description": "Generate the admin micro-service of your application",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "df5a1318710f96c112c606e02b03de19c0fce261",
+    "tarball": "https://registry.npmjs.org/lumber-cli/-/lumber-cli-1.2.3.tgz"
+  },
+  "gitHead": "d41b89e66cd231c85add7e3451c464f148598b75",
+  "license": "GPL-3.0",
+  "main": "lumber.js",
+  "maintainers": [
+    {
+      "name": "seyz",
+      "email": "sandro@munda.me"
+    }
+  ],
+  "name": "lumber-cli",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.3"
+}
